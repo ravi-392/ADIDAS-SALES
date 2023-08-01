@@ -1,6 +1,6 @@
 # Adidas_Sales_Analysis
 
-Below is the Snippet of Data Visualisation of the project
+Below is the Snippet of Visualisation of the project
 
 ADIDAS SALES ANALYSIS DASHBOARD (2020-2021)
 
